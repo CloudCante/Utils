@@ -1,0 +1,2969 @@
+[
+  {
+    "serial_number": "1654124137805",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-19T16:33:39",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-19T16:39:05",
+      "gap_seconds": 326.0,
+      "gap_hours": 0.09,
+      "gap_formatted": "0:05:26"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-19T16:41:44",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T18:01:03",
+      "gap_seconds": 4759.0,
+      "gap_hours": 1.32,
+      "gap_formatted": "1:19:19"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:46:28",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 75418.0,
+      "gap_hours": 20.95,
+      "gap_formatted": "20:56:58"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654624084535",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-16T17:18:21",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T23:13:36",
+      "gap_seconds": 107715.0,
+      "gap_hours": 29.92,
+      "gap_formatted": "1 day, 5:55:15"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T21:28:34",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 306892.0,
+      "gap_hours": 85.25,
+      "gap_formatted": "3 days, 13:14:52"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1653024049356",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T22:42:25",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-13T10:44:14",
+      "gap_seconds": 302509.0,
+      "gap_hours": 84.03,
+      "gap_formatted": "3 days, 12:01:49"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T16:07:40",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 498946.0,
+      "gap_hours": 138.6,
+      "gap_formatted": "5 days, 18:35:46"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1653724074572",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T22:37:49",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T11:18:22",
+      "gap_seconds": 477633.0,
+      "gap_hours": 132.68,
+      "gap_formatted": "5 days, 12:40:33"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:12:35",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 473451.0,
+      "gap_hours": 131.51,
+      "gap_formatted": "5 days, 11:30:51"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654224127669",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-19T11:44:16",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-19T12:04:02",
+      "gap_seconds": 1186.0,
+      "gap_hours": 0.33,
+      "gap_formatted": "0:19:46"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-19T12:05:05",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T20:04:06",
+      "gap_seconds": 28741.0,
+      "gap_hours": 7.98,
+      "gap_formatted": "7:59:01"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T10:59:46",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 85420.0,
+      "gap_hours": 23.73,
+      "gap_formatted": "23:43:40"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654124222324",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-19T16:31:19",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-19T16:35:39",
+      "gap_seconds": 260.0,
+      "gap_hours": 0.07,
+      "gap_formatted": "0:04:20"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-19T16:37:46",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T18:11:26",
+      "gap_seconds": 5620.0,
+      "gap_hours": 1.56,
+      "gap_formatted": "1:33:40"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:47:13",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 75373.0,
+      "gap_hours": 20.94,
+      "gap_formatted": "20:56:13"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654424246636",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-17T07:26:46",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-17T09:09:22",
+      "gap_seconds": 6156.0,
+      "gap_hours": 1.71,
+      "gap_formatted": "1:42:36"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-17T09:13:15",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-18T12:48:39",
+      "gap_seconds": 99324.0,
+      "gap_hours": 27.59,
+      "gap_formatted": "1 day, 3:35:24"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T13:41:56",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 334890.0,
+      "gap_hours": 93.03,
+      "gap_formatted": "3 days, 21:01:30"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654124076690",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-17T09:56:54",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-17T17:16:35",
+      "gap_seconds": 26381.0,
+      "gap_hours": 7.33,
+      "gap_formatted": "7:19:41"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-17T17:17:33",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T21:47:23",
+      "gap_seconds": 16190.0,
+      "gap_hours": 4.5,
+      "gap_formatted": "4:29:50"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T13:52:50",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 334236.0,
+      "gap_hours": 92.84,
+      "gap_formatted": "3 days, 20:50:36"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1652224043019",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-17T08:59:00",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-17T17:22:35",
+      "gap_seconds": 30215.0,
+      "gap_hours": 8.39,
+      "gap_formatted": "8:23:35"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-17T17:23:32",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T19:28:33",
+      "gap_seconds": 7501.0,
+      "gap_hours": 2.08,
+      "gap_formatted": "2:05:01"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:12:36",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 77450.0,
+      "gap_hours": 21.51,
+      "gap_formatted": "21:30:50"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654224136082",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T21:34:45",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T07:15:01",
+      "gap_seconds": 466816.0,
+      "gap_hours": 129.67,
+      "gap_formatted": "5 days, 9:40:16"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T15:46:24",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 500222.0,
+      "gap_hours": 138.95,
+      "gap_formatted": "5 days, 18:57:02"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654324170050",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T21:29:14",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-13T10:46:16",
+      "gap_seconds": 307022.0,
+      "gap_hours": 85.28,
+      "gap_formatted": "3 days, 13:17:02"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T15:50:34",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 499972.0,
+      "gap_hours": 138.88,
+      "gap_formatted": "5 days, 18:52:52"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654824109799",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T20:13:00",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T07:43:53",
+      "gap_seconds": 473453.0,
+      "gap_hours": 131.51,
+      "gap_formatted": "5 days, 11:30:53"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:11:13",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 473533.0,
+      "gap_hours": 131.54,
+      "gap_formatted": "5 days, 11:32:13"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654124189978",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-16T14:55:16",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-16T15:54:26",
+      "gap_seconds": 3550.0,
+      "gap_hours": 0.99,
+      "gap_formatted": "0:59:10"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-16T15:55:03",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T14:59:24",
+      "gap_seconds": 83061.0,
+      "gap_hours": 23.07,
+      "gap_formatted": "23:04:21"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T22:22:58",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 390028.0,
+      "gap_hours": 108.34,
+      "gap_formatted": "4 days, 12:20:28"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654624075293",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-19T09:25:07",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-19T10:19:26",
+      "gap_seconds": 3259.0,
+      "gap_hours": 0.91,
+      "gap_formatted": "0:54:19"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-19T10:20:46",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T10:29:59",
+      "gap_seconds": 553.0,
+      "gap_hours": 0.15,
+      "gap_formatted": "0:09:13"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T15:54:56",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 67710.0,
+      "gap_hours": 18.81,
+      "gap_formatted": "18:48:30"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1654424039874",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-18T19:47:48",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-18T19:53:41",
+      "gap_seconds": 353.0,
+      "gap_hours": 0.1,
+      "gap_formatted": "0:05:53"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-18T19:54:30",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T15:35:13",
+      "gap_seconds": 70843.0,
+      "gap_hours": 19.68,
+      "gap_formatted": "19:40:43"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T14:08:27",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 74099.0,
+      "gap_hours": 20.58,
+      "gap_formatted": "20:34:59"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1652924048337",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T17:56:13",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T15:22:20",
+      "gap_seconds": 509167.0,
+      "gap_hours": 141.44,
+      "gap_formatted": "5 days, 21:26:07"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T01:57:17",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 463569.0,
+      "gap_hours": 128.77,
+      "gap_formatted": "5 days, 8:46:09"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654824090676",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T17:45:24",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T12:47:59",
+      "gap_seconds": 500555.0,
+      "gap_hours": 139.04,
+      "gap_formatted": "5 days, 19:02:35"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T14:07:21",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 74165.0,
+      "gap_hours": 20.6,
+      "gap_formatted": "20:36:05"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654624074507",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T17:51:05",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T15:35:59",
+      "gap_seconds": 510294.0,
+      "gap_hours": 141.75,
+      "gap_formatted": "5 days, 21:44:54"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T16:08:15",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 498911.0,
+      "gap_hours": 138.59,
+      "gap_formatted": "5 days, 18:35:11"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1652324015793",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T18:08:27",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T13:06:38",
+      "gap_seconds": 500291.0,
+      "gap_hours": 138.97,
+      "gap_formatted": "5 days, 18:58:11"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:09:45",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 473621.0,
+      "gap_hours": 131.56,
+      "gap_formatted": "5 days, 11:33:41"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1652924025614",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T18:00:35",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-16T21:41:09",
+      "gap_seconds": 618034.0,
+      "gap_hours": 171.68,
+      "gap_formatted": "7 days, 3:40:34"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T11:35:37",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 342469.0,
+      "gap_hours": 95.13,
+      "gap_formatted": "3 days, 23:07:49"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654124077480",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T18:25:44",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T11:33:50",
+      "gap_seconds": 493686.0,
+      "gap_hours": 137.13,
+      "gap_formatted": "5 days, 17:08:06"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:30:14",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 472392.0,
+      "gap_hours": 131.22,
+      "gap_formatted": "5 days, 11:13:12"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654124141219",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T17:52:59",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T12:38:18",
+      "gap_seconds": 845119.0,
+      "gap_hours": 234.76,
+      "gap_formatted": "9 days, 18:45:19"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T14:08:01",
+      "shipping_start": "2025-09-23T10:43:26",
+      "gap_seconds": 74125.0,
+      "gap_hours": 20.59,
+      "gap_formatted": "20:35:25"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655123036051",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-15T12:02:23",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-15T15:45:38",
+      "gap_seconds": 13395.0,
+      "gap_hours": 3.72,
+      "gap_formatted": "3:43:15"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T15:47:32",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T13:13:47",
+      "gap_seconds": 163575.0,
+      "gap_hours": 45.44,
+      "gap_formatted": "1 day, 21:26:15"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T22:43:31",
+      "shipping_start": "2025-09-19T08:57:07",
+      "gap_seconds": 36816.0,
+      "gap_hours": 10.23,
+      "gap_formatted": "10:13:36"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1650324002451",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T15:37:43",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T13:05:32",
+      "gap_seconds": 163669.0,
+      "gap_hours": 45.46,
+      "gap_formatted": "1 day, 21:27:49"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T09:00:25",
+      "shipping_start": "2025-09-19T08:54:31",
+      "gap_seconds": 86046.0,
+      "gap_hours": 23.9,
+      "gap_formatted": "23:54:06"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650324003547",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T16:33:57",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T21:45:23",
+      "gap_seconds": 18686.0,
+      "gap_hours": 5.19,
+      "gap_formatted": "5:11:26"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-16T19:12:18",
+      "shipping_start": "2025-09-18T12:30:44",
+      "gap_seconds": 148706.0,
+      "gap_hours": 41.31,
+      "gap_formatted": "1 day, 17:18:26"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650224089672",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T15:55:00",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T10:35:49",
+      "gap_seconds": 153649.0,
+      "gap_hours": 42.68,
+      "gap_formatted": "1 day, 18:40:49"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T00:12:52",
+      "shipping_start": "2025-09-23T13:56:46",
+      "gap_seconds": 395034.0,
+      "gap_hours": 109.73,
+      "gap_formatted": "4 days, 13:43:54"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650124041092",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-10T15:54:55",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T16:30:34",
+      "gap_seconds": 434139.0,
+      "gap_hours": 120.59,
+      "gap_formatted": "5 days, 0:35:39"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T10:42:01",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 92887.0,
+      "gap_hours": 25.8,
+      "gap_formatted": "1 day, 1:48:07"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650324003516",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T15:42:54",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T13:23:08",
+      "gap_seconds": 164414.0,
+      "gap_hours": 45.67,
+      "gap_formatted": "1 day, 21:40:14"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T10:47:44",
+      "shipping_start": "2025-09-19T09:07:00",
+      "gap_seconds": 80356.0,
+      "gap_hours": 22.32,
+      "gap_formatted": "22:19:16"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650324008726",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-19T12:02:01",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-19T14:01:27",
+      "gap_seconds": 7166.0,
+      "gap_hours": 1.99,
+      "gap_formatted": "1:59:26"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-19T14:02:58",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-19T23:05:46",
+      "gap_seconds": 32568.0,
+      "gap_hours": 9.05,
+      "gap_formatted": "9:02:48"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:24:56",
+      "shipping_start": "2025-09-23T13:55:01",
+      "gap_seconds": 88205.0,
+      "gap_hours": 24.5,
+      "gap_formatted": "1 day, 0:30:05"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1655223016713",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-17T09:49:57",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-17T17:20:30",
+      "gap_seconds": 27033.0,
+      "gap_hours": 7.51,
+      "gap_formatted": "7:30:33"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-17T17:21:48",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T19:28:46",
+      "gap_seconds": 7618.0,
+      "gap_hours": 2.12,
+      "gap_formatted": "2:06:58"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T00:03:50",
+      "shipping_start": "2025-09-23T13:55:01",
+      "gap_seconds": 395471.0,
+      "gap_hours": 109.85,
+      "gap_formatted": "4 days, 13:51:11"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1650224051940",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T15:44:57",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-12T16:57:30",
+      "gap_seconds": 263553.0,
+      "gap_hours": 73.21,
+      "gap_formatted": "3 days, 1:12:33"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-16T22:50:05",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 135603.0,
+      "gap_hours": 37.67,
+      "gap_formatted": "1 day, 13:40:03"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650324066483",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-10T08:44:28",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-16T07:18:12",
+      "gap_seconds": 513224.0,
+      "gap_hours": 142.56,
+      "gap_formatted": "5 days, 22:33:44"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T11:59:19",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 88249.0,
+      "gap_hours": 24.51,
+      "gap_formatted": "1 day, 0:30:49"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650324046754",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T15:36:06",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-12T17:49:10",
+      "gap_seconds": 267184.0,
+      "gap_hours": 74.22,
+      "gap_formatted": "3 days, 2:13:04"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-16T22:52:01",
+      "shipping_start": "2025-09-19T09:04:43",
+      "gap_seconds": 209562.0,
+      "gap_hours": 58.21,
+      "gap_formatted": "2 days, 10:12:42"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655123039039",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-10T08:47:15",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-16T08:06:03",
+      "gap_seconds": 515928.0,
+      "gap_hours": 143.31,
+      "gap_formatted": "5 days, 23:18:48"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:42:58",
+      "shipping_start": "2025-09-19T09:00:20",
+      "gap_seconds": 119842.0,
+      "gap_hours": 33.29,
+      "gap_formatted": "1 day, 9:17:22"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655123036056",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T16:16:06",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T16:49:43",
+      "gap_seconds": 520417.0,
+      "gap_hours": 144.56,
+      "gap_formatted": "6 days, 0:33:37"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:43:29",
+      "shipping_start": "2025-09-19T09:00:20",
+      "gap_seconds": 119811.0,
+      "gap_hours": 33.28,
+      "gap_formatted": "1 day, 9:16:51"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654523021333",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T16:17:52",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T16:29:32",
+      "gap_seconds": 519100.0,
+      "gap_hours": 144.19,
+      "gap_formatted": "6 days, 0:11:40"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T10:30:00",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 93608.0,
+      "gap_hours": 26.0,
+      "gap_formatted": "1 day, 2:00:08"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655123035620",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-05T15:15:41",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-09T17:19:37",
+      "gap_seconds": 353036.0,
+      "gap_hours": 98.07,
+      "gap_formatted": "4 days, 2:03:56"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T17:21:08",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T07:51:25",
+      "gap_seconds": 484217.0,
+      "gap_hours": 134.5,
+      "gap_formatted": "5 days, 14:30:17"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T19:44:08",
+      "shipping_start": "2025-09-19T09:01:52",
+      "gap_seconds": 134264.0,
+      "gap_hours": 37.3,
+      "gap_formatted": "1 day, 13:17:44"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1650224019590",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-16T17:15:09",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T23:06:27",
+      "gap_seconds": 107478.0,
+      "gap_hours": 29.86,
+      "gap_formatted": "1 day, 5:51:18"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-18T22:44:35",
+      "shipping_start": "2025-09-19T09:09:26",
+      "gap_seconds": 37491.0,
+      "gap_hours": 10.41,
+      "gap_formatted": "10:24:51"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655023064384",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-15T15:20:41",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-17T11:52:58",
+      "gap_seconds": 160337.0,
+      "gap_hours": 44.54,
+      "gap_formatted": "1 day, 20:32:17"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T01:51:44",
+      "shipping_start": "2025-09-19T09:01:52",
+      "gap_seconds": 25808.0,
+      "gap_hours": 7.17,
+      "gap_formatted": "7:10:08"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655223086473",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-09T16:16:38",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-16T07:20:24",
+      "gap_seconds": 572626.0,
+      "gap_hours": 159.06,
+      "gap_formatted": "6 days, 15:03:46"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T10:40:59",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 92949.0,
+      "gap_hours": 25.82,
+      "gap_formatted": "1 day, 1:49:09"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655123037551",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-10T08:40:26",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T17:01:31",
+      "gap_seconds": 462065.0,
+      "gap_hours": 128.35,
+      "gap_formatted": "5 days, 8:21:05"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T11:58:47",
+      "shipping_start": "2025-09-18T12:30:08",
+      "gap_seconds": 88281.0,
+      "gap_hours": 24.52,
+      "gap_formatted": "1 day, 0:31:21"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1650224009415",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-10T08:50:43",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-15T14:07:25",
+      "gap_seconds": 451002.0,
+      "gap_hours": 125.28,
+      "gap_formatted": "5 days, 5:16:42"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-17T23:05:07",
+      "shipping_start": "2025-09-19T08:58:18",
+      "gap_seconds": 121991.0,
+      "gap_hours": 33.89,
+      "gap_formatted": "1 day, 9:53:11"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1324922011660",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-18T11:45:48",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-18T11:53:19",
+      "gap_seconds": 451.0,
+      "gap_hours": 0.13,
+      "gap_formatted": "0:07:31"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-18T11:55:35",
+      "next_station": "FLA",
+      "next_station_start": "2025-09-18T22:26:16",
+      "gap_seconds": 37841.0,
+      "gap_hours": 10.51,
+      "gap_formatted": "10:30:41"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-19T17:02:39",
+      "shipping_start": "2025-09-30T11:04:56",
+      "gap_seconds": 928937.0,
+      "gap_hours": 258.04,
+      "gap_formatted": "10 days, 18:02:17"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1651624018714",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-23T13:13:05",
+      "next_station": "BBD",
+      "next_station_start": "2025-09-23T15:11:25",
+      "gap_seconds": 7100.0,
+      "gap_hours": 1.97,
+      "gap_formatted": "1:58:20"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-09-23T15:11:55",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-24T11:52:08",
+      "gap_seconds": 74413.0,
+      "gap_hours": 20.67,
+      "gap_formatted": "20:40:13"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-25T01:04:07",
+      "shipping_start": "2025-09-26T11:28:36",
+      "gap_seconds": 123869.0,
+      "gap_hours": 34.41,
+      "gap_formatted": "1 day, 10:24:29"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1651124038970",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-23T12:02:19",
+      "next_station": "BBD",
+      "next_station_start": "2025-09-23T12:56:22",
+      "gap_seconds": 3243.0,
+      "gap_hours": 0.9,
+      "gap_formatted": "0:54:03"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-09-23T12:56:56",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-23T20:08:33",
+      "gap_seconds": 25897.0,
+      "gap_hours": 7.19,
+      "gap_formatted": "7:11:37"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-24T09:38:30",
+      "shipping_start": "2025-09-25T10:47:51",
+      "gap_seconds": 90561.0,
+      "gap_hours": 25.16,
+      "gap_formatted": "1 day, 1:09:21"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1650424029182",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-23T11:42:18",
+      "next_station": "BBD",
+      "next_station_start": "2025-09-23T13:07:13",
+      "gap_seconds": 5095.0,
+      "gap_hours": 1.42,
+      "gap_formatted": "1:24:55"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-09-23T13:25:10",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-23T18:51:50",
+      "gap_seconds": 19600.0,
+      "gap_hours": 5.44,
+      "gap_formatted": "5:26:40"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-24T08:54:38",
+      "shipping_start": "2025-09-25T10:45:48",
+      "gap_seconds": 93070.0,
+      "gap_hours": 25.85,
+      "gap_formatted": "1 day, 1:51:10"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1650224084507",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-23T11:55:18",
+      "next_station": "BBD",
+      "next_station_start": "2025-09-23T13:34:53",
+      "gap_seconds": 5975.0,
+      "gap_hours": 1.66,
+      "gap_formatted": "1:39:35"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-09-23T13:35:27",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-09-23T18:51:20",
+      "gap_seconds": 18953.0,
+      "gap_hours": 5.26,
+      "gap_formatted": "5:15:53"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-24T13:12:03",
+      "shipping_start": "2025-09-25T10:46:57",
+      "gap_seconds": 77694.0,
+      "gap_hours": 21.58,
+      "gap_formatted": "21:34:54"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1652923012535",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650423005052",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650924047334",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650524036855",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1651324056615",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1654523027489",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1655222004462",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650423010769",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650623010358",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1652323050250",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "VI1",
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650824028222",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T17:58:28",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-26T07:54:44",
+      "gap_seconds": 395776.0,
+      "gap_hours": 109.94,
+      "gap_formatted": "4 days, 13:56:16"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T16:11:06",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-27T08:39:25",
+      "gap_seconds": 59299.0,
+      "gap_hours": 16.47,
+      "gap_formatted": "16:28:19"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-27T08:40:04",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-27T11:01:08",
+      "gap_seconds": 8464.0,
+      "gap_hours": 2.35,
+      "gap_formatted": "2:21:04"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1653524123066",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T21:38:26",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-26T07:54:46",
+      "gap_seconds": 382580.0,
+      "gap_hours": 106.27,
+      "gap_formatted": "4 days, 10:16:20"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T14:20:22",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-26T15:17:47",
+      "gap_seconds": 3445.0,
+      "gap_hours": 0.96,
+      "gap_formatted": "0:57:25"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-26T15:25:42",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-27T11:30:07",
+      "gap_seconds": 72265.0,
+      "gap_hours": 20.07,
+      "gap_formatted": "20:04:25"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1651124045363",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T19:31:49",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-26T07:58:23",
+      "gap_seconds": 390394.0,
+      "gap_hours": 108.44,
+      "gap_formatted": "4 days, 12:26:34"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T11:40:58",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-26T14:01:25",
+      "gap_seconds": 8427.0,
+      "gap_hours": 2.34,
+      "gap_formatted": "2:20:27"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-26T14:02:05",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-27T09:43:35",
+      "gap_seconds": 70890.0,
+      "gap_hours": 19.69,
+      "gap_formatted": "19:41:30"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1653324107223",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T21:58:50",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-26T08:43:09",
+      "gap_seconds": 384259.0,
+      "gap_hours": 106.74,
+      "gap_formatted": "4 days, 10:44:19"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T15:22:15",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-26T15:42:13",
+      "gap_seconds": 1198.0,
+      "gap_hours": 0.33,
+      "gap_formatted": "0:19:58"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-26T15:45:12",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-27T09:56:51",
+      "gap_seconds": 65499.0,
+      "gap_hours": 18.19,
+      "gap_formatted": "18:11:39"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1654124002776",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T08:31:23",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-25T13:21:05",
+      "gap_seconds": 362982.0,
+      "gap_hours": 100.83,
+      "gap_formatted": "4 days, 4:49:42"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-25T15:24:12",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-25T15:46:33",
+      "gap_seconds": 1341.0,
+      "gap_hours": 0.37,
+      "gap_formatted": "0:22:21"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-25T15:47:29",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-25T18:08:54",
+      "gap_seconds": 8485.0,
+      "gap_hours": 2.36,
+      "gap_formatted": "2:21:25"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1322822030287",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T09:07:46",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-08-29T11:48:40",
+      "gap_seconds": 960054.0,
+      "gap_hours": 266.68,
+      "gap_formatted": "11 days, 2:40:54"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1322822080115",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T10:00:07",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:59:00",
+      "gap_seconds": 2415533.0,
+      "gap_hours": 670.98,
+      "gap_formatted": "27 days, 22:58:53"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1322822016214",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T10:41:34",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:58:08",
+      "gap_seconds": 2412994.0,
+      "gap_hours": 670.28,
+      "gap_formatted": "27 days, 22:16:34"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1322822014976",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T10:52:12",
+      "next_station": "PACKING",
+      "next_station_start": "2025-09-02T11:17:38",
+      "gap_seconds": 1297526.0,
+      "gap_hours": 360.42,
+      "gap_formatted": "15 days, 0:25:26"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-02T11:17:48",
+      "shipping_start": "2025-09-15T08:58:08",
+      "gap_seconds": 1114820.0,
+      "gap_hours": 309.67,
+      "gap_formatted": "12 days, 21:40:20"
+    },
+    "missing_stations": [
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1653022024130",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T11:38:30",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:59:00",
+      "gap_seconds": 2409630.0,
+      "gap_hours": 669.34,
+      "gap_formatted": "27 days, 21:20:30"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1652922034225",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T09:23:04",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:59:00",
+      "gap_seconds": 2417756.0,
+      "gap_hours": 671.6,
+      "gap_formatted": "27 days, 23:35:56"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1323222005846",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T10:35:48",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:59:00",
+      "gap_seconds": 2413392.0,
+      "gap_hours": 670.39,
+      "gap_formatted": "27 days, 22:23:12"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1322922049563",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T08:58:54",
+      "next_station": "ASSY2",
+      "next_station_start": "2025-09-02T11:05:46",
+      "gap_seconds": 1303612.0,
+      "gap_hours": 362.11,
+      "gap_formatted": "15 days, 2:06:52"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-02T15:34:25",
+      "shipping_start": "2025-09-15T08:59:00",
+      "gap_seconds": 1099475.0,
+      "gap_hours": 305.41,
+      "gap_formatted": "12 days, 17:24:35"
+    },
+    "missing_stations": [
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654322010324",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-18T08:17:27",
+      "next_station": "SHIPPING",
+      "next_station_start": "2025-09-15T08:59:00",
+      "gap_seconds": 2421693.0,
+      "gap_hours": 672.69,
+      "gap_formatted": "28 days, 0:41:33"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1654422002566",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-14T20:11:15",
+      "next_station": "VI1_REPAIR",
+      "next_station_start": "2025-08-26T11:03:27",
+      "gap_seconds": 1003932.0,
+      "gap_hours": 278.87,
+      "gap_formatted": "11 days, 14:52:12"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "UPGRADE",
+      "PACKING"
+    ]
+  },
+  {
+    "serial_number": "1650424033919",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-11T12:54:04",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-12T17:56:57",
+      "gap_seconds": 104573.0,
+      "gap_hours": 29.05,
+      "gap_formatted": "1 day, 5:02:53"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-12T21:51:12",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-12T21:52:31",
+      "gap_seconds": 79.0,
+      "gap_hours": 0.02,
+      "gap_formatted": "0:01:19"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-12T21:55:04",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-12T22:46:31",
+      "gap_seconds": 3087.0,
+      "gap_hours": 0.86,
+      "gap_formatted": "0:51:27"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650424033662",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-11T11:36:45",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-12T19:27:03",
+      "gap_seconds": 114618.0,
+      "gap_hours": 31.84,
+      "gap_formatted": "1 day, 7:50:18"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-12T22:09:57",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-12T22:31:15",
+      "gap_seconds": 1278.0,
+      "gap_hours": 0.35,
+      "gap_formatted": "0:21:18"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-12T22:31:40",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-13T07:57:00",
+      "gap_seconds": 33920.0,
+      "gap_hours": 9.42,
+      "gap_formatted": "9:25:20"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650424032449",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-11T12:51:33",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-12T18:50:29",
+      "gap_seconds": 107936.0,
+      "gap_hours": 29.98,
+      "gap_formatted": "1 day, 5:58:56"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-12T22:10:39",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-12T22:26:42",
+      "gap_seconds": 963.0,
+      "gap_hours": 0.27,
+      "gap_formatted": "0:16:03"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-12T22:27:18",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-13T07:54:40",
+      "gap_seconds": 34042.0,
+      "gap_hours": 9.46,
+      "gap_formatted": "9:27:22"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1651723006557",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-05T12:56:19",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-05T17:11:16",
+      "gap_seconds": 15297.0,
+      "gap_hours": 4.25,
+      "gap_formatted": "4:14:57"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T23:03:52",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T23:37:15",
+      "gap_seconds": 2003.0,
+      "gap_hours": 0.56,
+      "gap_formatted": "0:33:23"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T23:42:37",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T08:16:39",
+      "gap_seconds": 30842.0,
+      "gap_hours": 8.57,
+      "gap_formatted": "8:34:02"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1651923012363",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-05T13:05:40",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-05T17:54:43",
+      "gap_seconds": 17343.0,
+      "gap_hours": 4.82,
+      "gap_formatted": "4:49:03"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T22:47:36",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T23:11:55",
+      "gap_seconds": 1459.0,
+      "gap_hours": 0.41,
+      "gap_formatted": "0:24:19"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T23:35:37",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T08:15:13",
+      "gap_seconds": 31176.0,
+      "gap_hours": 8.66,
+      "gap_formatted": "8:39:36"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1651923012654",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-05T12:51:02",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-05T17:26:53",
+      "gap_seconds": 16551.0,
+      "gap_hours": 4.6,
+      "gap_formatted": "4:35:51"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T22:28:31",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T22:29:29",
+      "gap_seconds": 58.0,
+      "gap_hours": 0.02,
+      "gap_formatted": "0:00:58"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T22:30:25",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-07T07:55:58",
+      "gap_seconds": 120333.0,
+      "gap_hours": 33.43,
+      "gap_formatted": "1 day, 9:25:33"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1564121000002",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-21T13:26:04",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-26T13:28:46",
+      "gap_seconds": 432162.0,
+      "gap_hours": 120.05,
+      "gap_formatted": "5 days, 0:02:42"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-23T09:22:02",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 541947.0,
+      "gap_hours": 150.54,
+      "gap_formatted": "6 days, 6:32:27"
+    },
+    "missing_stations": [
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1655222021576",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-08T13:45:50",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-12T14:23:58",
+      "gap_seconds": 347888.0,
+      "gap_hours": 96.64,
+      "gap_formatted": "4 days, 0:38:08"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:31:39",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 613370.0,
+      "gap_hours": 170.38,
+      "gap_formatted": "7 days, 2:22:50"
+    },
+    "missing_stations": [
+      "UPGRADE",
+      "FLA/CHIFLASH"
+    ]
+  },
+  {
+    "serial_number": "1654322009308",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-11T08:58:20",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-14T11:38:31",
+      "gap_seconds": 268811.0,
+      "gap_hours": 74.67,
+      "gap_formatted": "3 days, 2:40:11"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "Assembley",
+      "prev_station_end": "2025-08-18T08:31:51",
+      "next_station": "FLA",
+      "next_station_start": "2025-08-20T22:23:33",
+      "gap_seconds": 222702.0,
+      "gap_hours": 61.86,
+      "gap_formatted": "2 days, 13:51:42"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T11:40:43",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 620026.0,
+      "gap_hours": 172.23,
+      "gap_formatted": "7 days, 4:13:46"
+    },
+    "missing_stations": [
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1563321000015",
+    "vi1_to_next": {
+      "vi1_end": "2025-08-11T15:36:53",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-08-13T13:28:46",
+      "gap_seconds": 165113.0,
+      "gap_hours": 45.86,
+      "gap_formatted": "1 day, 21:51:53"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T13:52:32",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 612117.0,
+      "gap_hours": 170.03,
+      "gap_formatted": "7 days, 2:01:57"
+    },
+    "missing_stations": [
+      "UPGRADE",
+      "FLA/CHIFLASH"
+    ]
+  },
+  {
+    "serial_number": "1651622024168",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-24T13:22:43",
+      "next_station": "VI3",
+      "next_station_start": "2025-09-02T09:50:33",
+      "gap_seconds": 3443270.0,
+      "gap_hours": 956.46,
+      "gap_formatted": "39 days, 20:27:50"
+    },
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-23T09:54:43",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 539986.0,
+      "gap_hours": 150.0,
+      "gap_formatted": "6 days, 5:59:46"
+    },
+    "missing_stations": [
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1653023025290",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-07T21:25:21",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-08T11:04:00",
+      "gap_seconds": 49119.0,
+      "gap_hours": 13.64,
+      "gap_formatted": "13:38:39"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T15:45:38",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-27T11:08:47",
+      "gap_seconds": 69789.0,
+      "gap_hours": 19.39,
+      "gap_formatted": "19:23:09"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-02T23:53:04",
+      "shipping_start": "2025-09-15T10:02:37",
+      "gap_seconds": 1073373.0,
+      "gap_hours": 298.16,
+      "gap_formatted": "12 days, 10:09:33"
+    },
+    "missing_stations": [
+      "FLA/CHIFLASH"
+    ]
+  },
+  {
+    "serial_number": "1651623015111",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-02T22:39:25",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-03T15:38:43",
+      "gap_seconds": 61158.0,
+      "gap_hours": 16.99,
+      "gap_formatted": "16:59:18"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-07T09:36:22",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-07T09:38:03",
+      "gap_seconds": 101.0,
+      "gap_hours": 0.03,
+      "gap_formatted": "0:01:41"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-07T09:39:10",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-07T11:07:51",
+      "gap_seconds": 5321.0,
+      "gap_hours": 1.48,
+      "gap_formatted": "1:28:41"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654923082585",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-02T21:13:10",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-03T12:44:04",
+      "gap_seconds": 55854.0,
+      "gap_hours": 15.52,
+      "gap_formatted": "15:30:54"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-23T16:41:26",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-23T16:42:26",
+      "gap_seconds": 60.0,
+      "gap_hours": 0.02,
+      "gap_formatted": "0:01:00"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-23T16:44:08",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-23T20:10:56",
+      "gap_seconds": 12408.0,
+      "gap_hours": 3.45,
+      "gap_formatted": "3:26:48"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654723045062",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-02T20:55:27",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-03T11:37:20",
+      "gap_seconds": 52913.0,
+      "gap_hours": 14.7,
+      "gap_formatted": "14:41:53"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-06T00:36:46",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-06T00:39:43",
+      "gap_seconds": 177.0,
+      "gap_hours": 0.05,
+      "gap_formatted": "0:02:57"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-06T00:40:29",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T09:36:22",
+      "gap_seconds": 32153.0,
+      "gap_hours": 8.93,
+      "gap_formatted": "8:55:53"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654823046075",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-02T19:02:11",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-03T09:29:30",
+      "gap_seconds": 52039.0,
+      "gap_hours": 14.46,
+      "gap_formatted": "14:27:19"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T21:23:36",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T21:42:05",
+      "gap_seconds": 1109.0,
+      "gap_hours": 0.31,
+      "gap_formatted": "0:18:29"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T21:42:39",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-04T07:13:20",
+      "gap_seconds": 293441.0,
+      "gap_hours": 81.51,
+      "gap_formatted": "3 days, 9:30:41"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654823047466",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-02T19:12:39",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-03T12:43:17",
+      "gap_seconds": 63038.0,
+      "gap_hours": 17.51,
+      "gap_formatted": "17:30:38"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T08:15:10",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T11:30:31",
+      "gap_seconds": 11721.0,
+      "gap_hours": 3.26,
+      "gap_formatted": "3:15:21"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T11:33:22",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-31T15:56:58",
+      "gap_seconds": 15816.0,
+      "gap_hours": 4.39,
+      "gap_formatted": "4:23:36"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1651123017349",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-01T14:05:23",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-01T23:11:00",
+      "gap_seconds": 32737.0,
+      "gap_hours": 9.09,
+      "gap_formatted": "9:05:37"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T09:25:48",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T09:43:00",
+      "gap_seconds": 1032.0,
+      "gap_hours": 0.29,
+      "gap_formatted": "0:17:12"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T09:43:38",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-31T11:54:05",
+      "gap_seconds": 7827.0,
+      "gap_hours": 2.17,
+      "gap_formatted": "2:10:27"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650524051980",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-01T15:39:20",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-01T22:34:20",
+      "gap_seconds": 24900.0,
+      "gap_hours": 6.92,
+      "gap_formatted": "6:55:00"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-01T00:57:39",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-01T01:00:10",
+      "gap_seconds": 151.0,
+      "gap_hours": 0.04,
+      "gap_formatted": "0:02:31"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-01T01:00:45",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-01T14:39:11",
+      "gap_seconds": 49106.0,
+      "gap_hours": 13.64,
+      "gap_formatted": "13:38:26"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650924067258",
+    "vi1_to_next": {
+      "vi1_end": "2025-07-01T14:15:53",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-07-01T22:52:03",
+      "gap_seconds": 30970.0,
+      "gap_hours": 8.6,
+      "gap_formatted": "8:36:10"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T19:24:07",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T19:44:27",
+      "gap_seconds": 1220.0,
+      "gap_hours": 0.34,
+      "gap_formatted": "0:20:20"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T19:45:07",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T08:14:57",
+      "gap_seconds": 44990.0,
+      "gap_hours": 12.5,
+      "gap_formatted": "12:29:50"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650624022261",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-23T23:46:56",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-23T23:55:16",
+      "gap_seconds": 500.0,
+      "gap_hours": 0.14,
+      "gap_formatted": "0:08:20"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T07:57:37",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T13:54:45",
+      "gap_seconds": 21428.0,
+      "gap_hours": 5.95,
+      "gap_formatted": "5:57:08"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T13:55:29",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-05T16:56:39",
+      "gap_seconds": 10870.0,
+      "gap_hours": 3.02,
+      "gap_formatted": "3:01:10"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650324092388",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-23T17:36:09",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-23T23:12:44",
+      "gap_seconds": 20195.0,
+      "gap_hours": 5.61,
+      "gap_formatted": "5:36:35"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T20:10:11",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-05T21:22:19",
+      "gap_seconds": 4328.0,
+      "gap_hours": 1.2,
+      "gap_formatted": "1:12:08"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-05T21:23:22",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T09:18:03",
+      "gap_seconds": 42881.0,
+      "gap_hours": 11.91,
+      "gap_formatted": "11:54:41"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650324091615",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-23T20:21:24",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-24T08:05:32",
+      "gap_seconds": 42248.0,
+      "gap_hours": 11.74,
+      "gap_formatted": "11:44:08"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T01:52:07",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T08:35:14",
+      "gap_seconds": 24187.0,
+      "gap_hours": 6.72,
+      "gap_formatted": "6:43:07"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T08:57:34",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-31T10:06:11",
+      "gap_seconds": 4117.0,
+      "gap_hours": 1.14,
+      "gap_formatted": "1:08:37"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650324049874",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-24T00:07:38",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-24T09:42:00",
+      "gap_seconds": 34462.0,
+      "gap_hours": 9.57,
+      "gap_formatted": "9:34:22"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-06T00:35:14",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-06T01:05:47",
+      "gap_seconds": 1833.0,
+      "gap_hours": 0.51,
+      "gap_formatted": "0:30:33"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-06T01:08:26",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-06T11:45:33",
+      "gap_seconds": 38227.0,
+      "gap_hours": 10.62,
+      "gap_formatted": "10:37:07"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650324092381",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-23T18:45:01",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-24T08:17:06",
+      "gap_seconds": 48725.0,
+      "gap_hours": 13.53,
+      "gap_formatted": "13:32:05"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T01:57:43",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T09:10:56",
+      "gap_seconds": 25993.0,
+      "gap_hours": 7.22,
+      "gap_formatted": "7:13:13"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T09:16:41",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-31T10:06:18",
+      "gap_seconds": 2977.0,
+      "gap_hours": 0.83,
+      "gap_formatted": "0:49:37"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1655223073225",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-10T01:52:56",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-10T07:23:57",
+      "gap_seconds": 19861.0,
+      "gap_hours": 5.52,
+      "gap_formatted": "5:31:01"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-01T11:02:27",
+      "next_station": "BBD",
+      "next_station_start": "2025-08-01T11:21:13",
+      "gap_seconds": 1126.0,
+      "gap_hours": 0.31,
+      "gap_formatted": "0:18:46"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-08-01T11:21:39",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-04T08:44:55",
+      "gap_seconds": 249796.0,
+      "gap_hours": 69.39,
+      "gap_formatted": "2 days, 21:23:16"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654223013608",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-10T17:41:41",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-11T13:32:29",
+      "gap_seconds": 71448.0,
+      "gap_hours": 19.85,
+      "gap_formatted": "19:50:48"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T09:11:23",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T09:26:28",
+      "gap_seconds": 905.0,
+      "gap_hours": 0.25,
+      "gap_formatted": "0:15:05"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T09:30:25",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-07-31T11:50:36",
+      "gap_seconds": 8411.0,
+      "gap_hours": 2.34,
+      "gap_formatted": "2:20:11"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1654223012807",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-10T14:00:39",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-11T12:48:32",
+      "gap_seconds": 82073.0,
+      "gap_hours": 22.8,
+      "gap_formatted": "22:47:53"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-31T22:24:12",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-31T23:03:15",
+      "gap_seconds": 2343.0,
+      "gap_hours": 0.65,
+      "gap_formatted": "0:39:03"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-31T23:06:23",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-04T10:38:39",
+      "gap_seconds": 300736.0,
+      "gap_hours": 83.54,
+      "gap_formatted": "3 days, 11:32:16"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1650524056814",
+    "vi1_to_next": {
+      "vi1_end": "2025-06-10T17:47:29",
+      "next_station": "Disassembly",
+      "next_station_start": "2025-06-11T11:39:50",
+      "gap_seconds": 64341.0,
+      "gap_hours": 17.87,
+      "gap_formatted": "17:52:21"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-07-23T22:10:58",
+      "next_station": "BBD",
+      "next_station_start": "2025-07-23T22:22:55",
+      "gap_seconds": 717.0,
+      "gap_hours": 0.2,
+      "gap_formatted": "0:11:57"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "BBD",
+      "prev_station_end": "2025-07-23T22:23:53",
+      "next_station": "CHIFLASH",
+      "next_station_start": "2025-08-13T14:32:28",
+      "gap_seconds": 1786115.0,
+      "gap_hours": 496.14,
+      "gap_formatted": "20 days, 16:08:35"
+    },
+    "packing_to_shipping": null,
+    "missing_stations": [
+      "SHIPPING"
+    ]
+  },
+  {
+    "serial_number": "1323222053573",
+    "vi1_to_next": {
+      "vi1_end": "2025-04-24T12:56:42",
+      "next_station": "VI1_REPAIR",
+      "next_station_start": "2025-04-29T13:20:14",
+      "gap_seconds": 433412.0,
+      "gap_hours": 120.39,
+      "gap_formatted": "5 days, 0:23:32"
+    },
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T09:55:26",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-08-26T12:21:16",
+      "gap_seconds": 8750.0,
+      "gap_hours": 2.43,
+      "gap_formatted": "2:25:50"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-02T11:18:26",
+      "shipping_start": "2025-09-15T09:07:37",
+      "gap_seconds": 1115351.0,
+      "gap_hours": 309.82,
+      "gap_formatted": "12 days, 21:49:11"
+    },
+    "missing_stations": [
+      "FLA/CHIFLASH"
+    ]
+  },
+  {
+    "serial_number": "1322922007236",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-26T18:25:06",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-08-26T18:43:00",
+      "gap_seconds": 1074.0,
+      "gap_hours": 0.3,
+      "gap_formatted": "0:17:54"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-08-26T18:43:54",
+      "next_station": "FLA",
+      "next_station_start": "2025-08-26T21:51:14",
+      "gap_seconds": 11240.0,
+      "gap_hours": 3.12,
+      "gap_formatted": "3:07:20"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-02T11:18:53",
+      "shipping_start": "2025-09-15T09:09:13",
+      "gap_seconds": 1115420.0,
+      "gap_hours": 309.84,
+      "gap_formatted": "12 days, 21:50:20"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1322822079760",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T11:33:49",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-08-05T17:20:42",
+      "gap_seconds": 20813.0,
+      "gap_hours": 5.78,
+      "gap_formatted": "5:46:53"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-08-05T17:21:33",
+      "next_station": "FLA",
+      "next_station_start": "2025-08-05T20:11:40",
+      "gap_seconds": 10207.0,
+      "gap_hours": 2.84,
+      "gap_formatted": "2:50:07"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-08-06T17:23:38",
+      "shipping_start": "2025-08-08T10:16:05",
+      "gap_seconds": 147147.0,
+      "gap_hours": 40.87,
+      "gap_formatted": "1 day, 16:52:27"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1652922033526",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-03T08:22:05",
+      "next_station": "FLA",
+      "next_station_start": "2025-09-03T08:44:53",
+      "gap_seconds": 1368.0,
+      "gap_hours": 0.38,
+      "gap_formatted": "0:22:48"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-04T01:29:33",
+      "shipping_start": "2025-09-15T08:57:41",
+      "gap_seconds": 977288.0,
+      "gap_hours": 271.47,
+      "gap_formatted": "11 days, 7:28:08"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1321022090083",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T19:13:37",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-08-05T19:17:29",
+      "gap_seconds": 232.0,
+      "gap_hours": 0.06,
+      "gap_formatted": "0:03:52"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-08-05T19:31:20",
+      "next_station": "FLA",
+      "next_station_start": "2025-08-06T09:11:43",
+      "gap_seconds": 49223.0,
+      "gap_hours": 13.67,
+      "gap_formatted": "13:40:23"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-08-07T02:03:42",
+      "shipping_start": "2025-08-08T10:16:20",
+      "gap_seconds": 115958.0,
+      "gap_hours": 32.21,
+      "gap_formatted": "1 day, 8:12:38"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1322822087070",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-08-05T22:41:54",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-08-05T23:47:10",
+      "gap_seconds": 3916.0,
+      "gap_hours": 1.09,
+      "gap_formatted": "1:05:16"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-08-05T23:54:31",
+      "next_station": "FLA",
+      "next_station_start": "2025-08-06T07:52:31",
+      "gap_seconds": 28680.0,
+      "gap_hours": 7.97,
+      "gap_formatted": "7:58:00"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-08-07T02:02:26",
+      "shipping_start": "2025-08-08T10:16:37",
+      "gap_seconds": 116051.0,
+      "gap_hours": 32.24,
+      "gap_formatted": "1 day, 8:14:11"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1564121000058",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T16:00:04",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 604465.0,
+      "gap_hours": 167.91,
+      "gap_formatted": "6 days, 23:54:25"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1653523066995",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-25T08:44:19",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-25T09:34:20",
+      "gap_seconds": 3001.0,
+      "gap_hours": 0.83,
+      "gap_formatted": "0:50:01"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-25T09:34:56",
+      "next_station": "FLA",
+      "next_station_start": "2025-09-25T10:32:07",
+      "gap_seconds": 3431.0,
+      "gap_hours": 0.95,
+      "gap_formatted": "0:57:11"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-29T11:01:36",
+      "shipping_start": "2025-09-30T11:16:58",
+      "gap_seconds": 87322.0,
+      "gap_hours": 24.26,
+      "gap_formatted": "1 day, 0:15:22"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1565221000009",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-22T15:00:06",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 608063.0,
+      "gap_hours": 168.91,
+      "gap_formatted": "7 days, 0:54:23"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  },
+  {
+    "serial_number": "1654222017086",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-04-01T16:52:38",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-04-01T17:46:55",
+      "gap_seconds": 3257.0,
+      "gap_hours": 0.9,
+      "gap_formatted": "0:54:17"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-25T08:10:49",
+      "next_station": "FLA",
+      "next_station_start": "2025-09-25T09:16:08",
+      "gap_seconds": 3919.0,
+      "gap_hours": 1.09,
+      "gap_formatted": "1:05:19"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-30T01:47:53",
+      "shipping_start": "2025-09-30T11:16:24",
+      "gap_seconds": 34111.0,
+      "gap_hours": 9.48,
+      "gap_formatted": "9:28:31"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1652222006849",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": {
+      "upgrade_end": "2025-09-23T17:14:12",
+      "next_station": "ASSY1",
+      "next_station_start": "2025-09-23T17:24:14",
+      "gap_seconds": 602.0,
+      "gap_hours": 0.17,
+      "gap_formatted": "0:10:02"
+    },
+    "bbd_or_assy1_to_fla_or_chiflash": {
+      "prev_station": "ASSY1",
+      "prev_station_end": "2025-09-23T17:25:12",
+      "next_station": "FLA",
+      "next_station_start": "2025-09-23T19:16:37",
+      "gap_seconds": 6685.0,
+      "gap_hours": 1.86,
+      "gap_formatted": "1:51:25"
+    },
+    "packing_to_shipping": {
+      "packing_end": "2025-09-24T15:45:57",
+      "shipping_start": "2025-09-30T11:15:43",
+      "gap_seconds": 502186.0,
+      "gap_hours": 139.5,
+      "gap_formatted": "5 days, 19:29:46"
+    },
+    "missing_stations": [
+      "VI1"
+    ]
+  },
+  {
+    "serial_number": "1565221000030",
+    "vi1_to_next": null,
+    "upgrade_to_bbd_or_assy1": null,
+    "bbd_or_assy1_to_fla_or_chiflash": null,
+    "packing_to_shipping": {
+      "packing_end": "2025-09-23T08:46:30",
+      "shipping_start": "2025-09-29T15:54:29",
+      "gap_seconds": 544079.0,
+      "gap_hours": 151.13,
+      "gap_formatted": "6 days, 7:07:59"
+    },
+    "missing_stations": [
+      "VI1",
+      "UPGRADE"
+    ]
+  }
+]
