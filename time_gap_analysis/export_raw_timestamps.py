@@ -81,23 +81,26 @@ def get_raw_timestamps(serial_number):
             next_station_name = None
             next_station_start = None
             
-            # First try Disassembly
+            # Look for Disassembly or UPGRADE only
+            candidates = []
+            
             if 'Disassembly' in stations:
                 for disassembly_time in stations['Disassembly']:
                     if disassembly_time['start'] and vi1_end and disassembly_time['start'] > vi1_end:
-                        next_station_name = 'Disassembly'
-                        next_station_start = disassembly_time['start']
+                        candidates.append(('Disassembly', disassembly_time['start']))
                         break
             
-            # If no Disassembly after VI1, find whatever comes next
-            if not next_station_start:
-                for station_name, times_list in stations.items():
-                    if station_name != 'VI1':
-                        for time_data in times_list:
-                            if time_data['start'] and vi1_end and time_data['start'] > vi1_end:
-                                if next_station_start is None or time_data['start'] < next_station_start:
-                                    next_station_start = time_data['start']
-                                    next_station_name = station_name
+            if 'UPGRADE' in stations:
+                for upgrade_time in stations['UPGRADE']:
+                    if upgrade_time['start'] and vi1_end and upgrade_time['start'] > vi1_end:
+                        candidates.append(('UPGRADE', upgrade_time['start']))
+                        break
+            
+            # Pick whichever comes first
+            if candidates:
+                candidates.sort(key=lambda x: x[1])
+                next_station_name = candidates[0][0]
+                next_station_start = candidates[0][1]
             
             result['vi1_next_station'] = next_station_name
             result['vi1_next_start'] = next_station_start
