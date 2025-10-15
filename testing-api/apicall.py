@@ -1,7 +1,7 @@
 import psycopg2
 import requests
 
-API_URL = "http://192.168.0.99:5000/api/v1/sql-portal"
+API_URL = "http://10.23.8.215:5000/api/v1/sql-portal"
 
 response = requests.get(f"{API_URL}/tables")
 print(f"Tables: {response.json()['tables'][:3]}")
