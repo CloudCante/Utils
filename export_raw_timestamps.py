@@ -106,30 +106,40 @@ def get_raw_timestamps(serial_number):
             result['vi1_next_start'] = next_station_start
         
         # 2. Upgrade end time and BBD/ASSY1 start time
-        bbd_or_assy_station = None
-        if 'BBD' in stations:
-            bbd_or_assy_station = 'BBD'
-        elif 'ASSY1' in stations:
-            bbd_or_assy_station = 'ASSY1'
-        elif 'Assembley' in stations:
-            bbd_or_assy_station = 'Assembley'
-        
         if 'UPGRADE' in stations:
             upgrade_end = stations['UPGRADE'][-1]['end']  # MOST RECENT occurrence
             result['upgrade_end'] = upgrade_end
             
-            if bbd_or_assy_station:
-                result['bbd_assy_station'] = bbd_or_assy_station
-                
-                # Find the first BBD/ASSY1 that comes AFTER the most recent UPGRADE
-                for time_data in stations[bbd_or_assy_station]:
-                    if time_data['start'] and upgrade_end and time_data['start'] > upgrade_end:
-                        result['bbd_assy_start'] = time_data['start']
-                        result['bbd_assy_end'] = time_data['end']
+            # Look for BBD OR ASSY1 after UPGRADE, whichever comes first
+            candidates = []
+            
+            if 'BBD' in stations:
+                for bbd_time in stations['BBD']:
+                    if bbd_time['start'] and upgrade_end and bbd_time['start'] > upgrade_end:
+                        candidates.append(('BBD', bbd_time['start'], bbd_time['end']))
                         break
+            
+            if 'ASSY1' in stations:
+                for assy1_time in stations['ASSY1']:
+                    if assy1_time['start'] and upgrade_end and assy1_time['start'] > upgrade_end:
+                        candidates.append(('ASSY1', assy1_time['start'], assy1_time['end']))
+                        break
+            
+            if 'Assembley' in stations:
+                for assembley_time in stations['Assembley']:
+                    if assembley_time['start'] and upgrade_end and assembley_time['start'] > upgrade_end:
+                        candidates.append(('Assembley', assembley_time['start'], assembley_time['end']))
+                        break
+            
+            # Pick whichever comes first chronologically
+            if candidates:
+                candidates.sort(key=lambda x: x[1])  # Sort by start time
+                result['bbd_assy_station'] = candidates[0][0]
+                result['bbd_assy_start'] = candidates[0][1]
+                result['bbd_assy_end'] = candidates[0][2]
         
         # 3. BBD/ASSY1 end time and FLA/CHIFLASH start time
-        if bbd_or_assy_station and result['bbd_assy_end']:
+        if result['bbd_assy_station'] and result['bbd_assy_end']:
             prev_end = result['bbd_assy_end']
             
             # Find the earliest FLA or CHIFLASH that comes AFTER the last BBD/ASSY1
