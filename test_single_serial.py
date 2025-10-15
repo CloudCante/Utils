@@ -141,27 +141,54 @@ def get_raw_timestamps(serial_number):
             bbd_or_assy_station = 'Assembley'
         
         if 'UPGRADE' in stations:
-            upgrade_end = stations['UPGRADE'][-1]['end']  # LAST occurrence
+            upgrade_end = stations['UPGRADE'][-1]['end']  # MOST RECENT occurrence
             result['upgrade_end'] = upgrade_end
             print(f"UPGRADE last occurrence ends at: {upgrade_end}")
             
-            if bbd_or_assy_station:
-                result['bbd_assy_station'] = bbd_or_assy_station
-                print(f"Looking for {bbd_or_assy_station} after UPGRADE...")
-                
-                # Find the first BBD/ASSY1 that comes AFTER the last UPGRADE
-                for time_data in stations[bbd_or_assy_station]:
-                    print(f"  {bbd_or_assy_station}: {time_data['start']} (UPGRADE end: {upgrade_end})")
-                    if time_data['start'] and upgrade_end and time_data['start'] > upgrade_end:
-                        result['bbd_assy_start'] = time_data['start']
-                        result['bbd_assy_end'] = time_data['end']
-                        print(f"    ✓ Found {bbd_or_assy_station}: {time_data['start']} - {time_data['end']}")
+            # Look for BBD OR ASSY1 after UPGRADE, whichever comes first
+            candidates = []
+            
+            if 'BBD' in stations:
+                print("Looking for BBD after UPGRADE...")
+                for bbd_time in stations['BBD']:
+                    print(f"  BBD: {bbd_time['start']} (UPGRADE end: {upgrade_end})")
+                    if bbd_time['start'] and upgrade_end and bbd_time['start'] > upgrade_end:
+                        candidates.append(('BBD', bbd_time['start'], bbd_time['end']))
+                        print(f"    ✓ Added BBD candidate: {bbd_time['start']}")
                         break
+            
+            if 'ASSY1' in stations:
+                print("Looking for ASSY1 after UPGRADE...")
+                for assy1_time in stations['ASSY1']:
+                    print(f"  ASSY1: {assy1_time['start']} (UPGRADE end: {upgrade_end})")
+                    if assy1_time['start'] and upgrade_end and assy1_time['start'] > upgrade_end:
+                        candidates.append(('ASSY1', assy1_time['start'], assy1_time['end']))
+                        print(f"    ✓ Added ASSY1 candidate: {assy1_time['start']}")
+                        break
+            
+            if 'Assembley' in stations:
+                print("Looking for Assembley after UPGRADE...")
+                for assembley_time in stations['Assembley']:
+                    print(f"  Assembley: {assembley_time['start']} (UPGRADE end: {upgrade_end})")
+                    if assembley_time['start'] and upgrade_end and assembley_time['start'] > upgrade_end:
+                        candidates.append(('Assembley', assembley_time['start'], assembley_time['end']))
+                        print(f"    ✓ Added Assembley candidate: {assembley_time['start']}")
+                        break
+            
+            print(f"BBD/ASSY1 candidates: {candidates}")
+            
+            # Pick whichever comes first chronologically
+            if candidates:
+                candidates.sort(key=lambda x: x[1])  # Sort by start time
+                result['bbd_assy_station'] = candidates[0][0]
+                result['bbd_assy_start'] = candidates[0][1]
+                result['bbd_assy_end'] = candidates[0][2]
+                print(f"Selected BBD/ASSY1: {candidates[0][0]} at {candidates[0][1]}")
         
         # 3. BBD/ASSY1 end time and FLA/CHIFLASH start time
-        if bbd_or_assy_station and result['bbd_assy_end']:
+        if result['bbd_assy_station'] and result['bbd_assy_end']:
             prev_end = result['bbd_assy_end']
-            print(f"Looking for FLA/CHIFLASH after {bbd_or_assy_station} ends at: {prev_end}")
+            print(f"Looking for FLA/CHIFLASH after {result['bbd_assy_station']} ends at: {prev_end}")
             
             # Find the earliest FLA or CHIFLASH that comes AFTER the last BBD/ASSY1
             candidates = []
