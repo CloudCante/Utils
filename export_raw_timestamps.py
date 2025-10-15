@@ -74,10 +74,10 @@ def get_raw_timestamps(serial_number):
         
         # 1. VI1 end time and next station start time
         if 'VI1' in stations:
-            vi1_end = stations['VI1'][-1]['end']  # LAST occurrence
+            vi1_end = stations['VI1'][-1]['end']  # MOST RECENT occurrence
             result['vi1_end'] = vi1_end
             
-            # Find the next station after VI1's LAST occurrence
+            # Find the next station after VI1's MOST RECENT occurrence
             next_station_name = None
             next_station_start = None
             
@@ -115,13 +115,13 @@ def get_raw_timestamps(serial_number):
             bbd_or_assy_station = 'Assembley'
         
         if 'UPGRADE' in stations:
-            upgrade_end = stations['UPGRADE'][-1]['end']  # LAST occurrence
+            upgrade_end = stations['UPGRADE'][-1]['end']  # MOST RECENT occurrence
             result['upgrade_end'] = upgrade_end
             
             if bbd_or_assy_station:
                 result['bbd_assy_station'] = bbd_or_assy_station
                 
-                # Find the first BBD/ASSY1 that comes AFTER the last UPGRADE
+                # Find the first BBD/ASSY1 that comes AFTER the most recent UPGRADE
                 for time_data in stations[bbd_or_assy_station]:
                     if time_data['start'] and upgrade_end and time_data['start'] > upgrade_end:
                         result['bbd_assy_start'] = time_data['start']
@@ -154,11 +154,11 @@ def get_raw_timestamps(serial_number):
         
         # 4. Packing end time and Shipping start time
         if 'PACKING' in stations:
-            packing_end = stations['PACKING'][-1]['end']  # LAST occurrence
+            packing_end = stations['PACKING'][-1]['end']  # MOST RECENT occurrence
             result['packing_end'] = packing_end
             
             if 'SHIPPING' in stations:
-                # Find first SHIPPING after the last PACKING
+                # Find first SHIPPING after the most recent PACKING
                 for shipping_time in stations['SHIPPING']:
                     if shipping_time['start'] and packing_end and shipping_time['start'] > packing_end:
                         result['shipping_start'] = shipping_time['start']
